@@ -1,34 +1,30 @@
-# ✨ Welcome to my workspace! ✨
+✨ Welcome to my workspace! ✨
 
-Hi! I'm **Zarifa Ali**  
-🌍 I'm a Computer Engineering student from **Azerbaijan, Baku**  
+Hi! I’m **Zarifa Alili** 👋  
+🌍 Computer Engineering student from **Azerbaijan, Baku**  
 💻 I code, learn, build, and explore tech every day!
 
----
 
-### 🧠 About Me
-- 📚 Currently improving my skills in **Java**
-- 🚀 Working with **Docker** and building backend systems
-- ⚡ Learning **Redis** for fast data storage
-- 📌 Using **Git & GitHub** for version control
+## 🛠️ Technologies & Tools
 
----
-
-### 🛠 Technologies & Tools
-
-Here are some tools and languages I use:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarifaalili&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+![Zarifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarifaalili&show_icons=true&theme=dark)
 
 ---
 
-### 🌟 Always learning, always growing!
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+🌱 *Always learning, always growing.*
