@@ -17,11 +17,6 @@ Hi! I’m **Zarifa Alili** 👋
 
 ---
 
-## 📊 GitHub Stats
-![Zarifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarifaalili&show_icons=true&theme=dark)
-
----
-
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
