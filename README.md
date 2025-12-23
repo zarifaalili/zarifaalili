@@ -37,4 +37,4 @@ Hi! I’m **Zarifa Alili** 👋
 
 ---
 
-🌱 *Always learning, always growing.*
+🌱 *Always learning and growing — not only for myself, but for women who want to grow in tech.*
